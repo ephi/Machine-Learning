@@ -7,7 +7,7 @@ Ex3: linear and non-linear classifiers using Logistic Regression
 Ex4: multi-class classification using Logistic Regression and Confusion Matrix  
 Ex5: Kernel trick & Linear/Non-Linear SVM using sklearn  
 Ex6: K-means unsupervised classification  
-Ex7: Gaussian Mixture Models(GMM) 
+Ex7: Gaussian Mixture Models(GMM)  
 Ex8: PCA  
 Project: implmentation of Gaussian naive-Bayes classifier. using the classifier on face database with K-fold cross-validation and PCA to find optimal learning dimenssion   
 
